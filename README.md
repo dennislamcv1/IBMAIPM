@@ -1,4 +1,4 @@
-# IBMGAPM
+# IBMAIPM
 ## IBM AI Product Manager Professional Certificate
 
 Prepare for a career in the high-growth field of technology. In this program, you’ll learn in-demand skills like product management, prompt engineering, and artificial intelligence to get job-ready in 6 months or less, with no prior experience required.
